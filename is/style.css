@@ -1,0 +1,23 @@
+body {
+    background-color: aquamarine;
+}
+
+
+ button {
+border: 5px;
+border-radius: 5px;
+background-color: darkgray;
+color: rgb(0, 0, 0);
+font size: 15px;
+font-weight bold;
+padding: 10px;
+
+padding: 10px;
+ }
+ 
+ button:hover {
+    background-color:pink ;
+ }
+ h3{
+    color: black;
+ }
