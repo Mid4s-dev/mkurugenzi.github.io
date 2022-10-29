@@ -4,20 +4,24 @@ body {
 
 
  button {
-border: 5px;
+border; 2px solid rgb(2, 12, 68);
 border-radius: 5px;
 background-color: darkgray;
 color: rgb(0, 0, 0);
 font size: 15px;
 font-weight bold;
 padding: 10px;
+width: 200px;
+height: 150px;
+alling: center;
+display: block;
+cursor: pointer;
 
-padding: 10px;
  }
  
  button:hover {
     background-color:pink ;
  }
  h3{
-    color: black;
+    color: rgb(0, 0, 0);
  }
